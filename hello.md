@@ -7,6 +7,8 @@ test2
 test3
 test4
 
-```rb
-p "hello"
+``` rb
+def hello
+  p "hello"
+end
 ```
